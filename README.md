@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Alejandro Largo
 
-![Alejandro Largo](/images/baner.png)
+![Alejandro Largo](/images/baner.jpeg)
 
 # 💫 Sobre mí
 Desarrollador de software full stack con enfoque en el desarrollo web moderno.  
