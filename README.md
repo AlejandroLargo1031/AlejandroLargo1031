@@ -9,7 +9,7 @@ Apasionado por la innovación tecnológica, me especializo en crear soluciones e
 - 🔭 Actualmente trabajando en: proyectos de IA aplicada y arquitectura backend
 - 🌱 Aprendiendo más sobre: DevOps, IA y nuevas tecnologías web
 - 👯 Abierto a colaborar en proyectos innovadores
-- 💬 Pregúntame sobre: React, Django, Next, GPT-4
+- 💬 Pregúntame sobre: React, Django, Next, AI
 - 📫 Contacto: [alejandrodevlargo@gmail.com](mailto:alejandrodevlargo@gmail.com)
 - 🌐 Portafolio: [https://portafolio-web-sage-kappa.vercel.app](https://portafolio-web-sage-kappa.vercel.app)
 - 💼 LinkedIn: [Alejandro Largo](https://www.linkedin.com/in/alejandro-largo-dev/)
